@@ -1,3 +1,5 @@
+# Source: ETH D-INFK Discord
+
 import os
 import re
 import sys
